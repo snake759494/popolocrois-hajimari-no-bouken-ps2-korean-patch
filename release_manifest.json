@@ -1,0 +1,16 @@
+{
+ "version": "v1.0",
+ "asset": "PoPoLoCrois_Hajimari_KO_v1.0.xdelta",
+ "asset_size": 6168547,
+ "asset_sha256": "a77c39e93be5036ea68d74cec2c9c638f8b023fafe6e06f45d217efcd16b7c48",
+ "source_iso_size": 2300051456,
+ "source_iso_md5": "1d91fcd216fbed1f253e3b25835143d1",
+ "source_iso_sha256": "2076b3794954c5cec29175e6302fa53ff9df935e2ab408101abdcffa5e1122e4",
+ "result_iso_size": 2304919552,
+ "result_iso_sha256": "ddc734610d2d94324d099bc8df8d3fd3baedac6232a5353e3d19d1fce509bd84",
+ "widescreen_pnach": "SCPS-15028_2D5C14EB.pnach",
+ "widescreen_pnach_size": 658,
+ "widescreen_pnach_sha256": "cfc9d27d68841ce0c40ed4f4b6d2a69743a6326f08fc53a6fb306e26c99821cb",
+ "original_elf_crc": "B0258F83",
+ "korean_elf_crc": "2D5C14EB"
+}

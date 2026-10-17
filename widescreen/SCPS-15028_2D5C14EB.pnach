@@ -1,0 +1,19 @@
+gametitle=PoPoLoCrois - Hajimari no Bouken (J)(SCPS-15028) [Korean patch]
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+description=Widescreen hack (3D camera horizontal FOV x0.75, 2D overlays untouched) for Korean patch CRC 2D5C14EB
+
+//Widescreen hack 16:9
+patch=1,EE,000ff000,word,3c013f40
+patch=1,EE,000ff004,word,44810800
+patch=1,EE,000ff008,word,46016b42
+patch=1,EE,000ff00c,word,0805687e
+patch=1,EE,000ff010,word,00000000
+patch=1,EE,000ff020,word,3c013f40
+patch=1,EE,000ff024,word,44810800
+patch=1,EE,000ff028,word,46016b42
+patch=1,EE,000ff02c,word,0805691a
+patch=1,EE,000ff030,word,00000000
+patch=1,EE,001832e8,word,0c03fc00
+patch=1,EE,00183244,word,0c03fc08
